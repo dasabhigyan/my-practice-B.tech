@@ -17,7 +17,7 @@ print()
 print(0 or 5) #5
 print("" or "hi") #hi
 print(3 and 7)  #7 (in AND when the output is True, the output is the last Truthy value.)
-print(0 and 7) #0 (in AND when the output is False, the outpu tis the 1st Falsy Value.)
+print(0 and 7) #0 (in AND when the output is False, the output tis the 1st Falsy Value.)
 print()
 
 name = ""
