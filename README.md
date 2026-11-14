@@ -1,100 +1,79 @@
-# 💻 My B.Tech Coding Journey
+# Worksheet Practice
 
-Welcome to my coding repository!
+A collection of semester-wise practice materials for **Full-Stack
+Development** and **Python**.
 
-This repository is my personal learning space where I document and maintain the code I write throughout my **B.Tech in Artificial Intelligence**.
+## Repository Structure
 
-From basic programming exercises to complex coding problems, worksheets, assignments, and experiments, this repository will contain my hands-on learning experience across different programming languages and technologies.
-
-I'm using this repository to track my progress, practise consistently, and build a strong programming foundation.
-
-> **Learn → Practise → Experiment → Build → Improve**
-
----
-
-## 📚 What You'll Find Here
-
-This repository contains:
-
-- Programming practice and coding exercises.
-- College worksheets and their solutions.
-- Topic-wise programs and implementations.
-- Full Stack Development practice.
-- Python programming exercises.
-- Assignments and practical work.
-- Code written while exploring new technologies.
-- Future projects and experiments.
-
-## 🛠️ Languages & Subjects
-
-| Language / Subject | Contents |
-|---|---|
-| Python | Programming fundamentals, worksheets and problem-solving |
-| Full Stack Development | HTML, CSS, JavaScript and web development |
-| Other Languages | Will be added as I learn them |
-| Artificial Intelligence | Future AI/ML practice and experiments |
-
-## 📂 Repository Structure
-
-The repository is organised semester-wise and subject-wise to keep everything accessible.
-
-```text
-my-practice-B.tech/
-│
+``` text
+Worksheet Practice/
 ├── Full-Stack Development/
-│   └── Sem-1/
-│       ├── HTML/
-│       ├── CSS/
-│       └── JavaScript/
+│   ├── 1.Sem-1/
+│   │   ├── HTML/
+│   │   ├── JavaScript/
+│   │   └── Worksheets/
+│   │       ├── 0.All Worksheet/
+│   │       ├── 1.HTML/
+│   │       ├── 2.CSS/
+│   │       └── 3.Javascript/
+│   ├── Youtube_Classes/
+│   │   └── HTML/
+│   └── 2.Sem-2/
 │
 ├── Python/
-│   └── 1.Sem-1/
-│       └── 0.All Worksheets/
+│   ├── 1.Sem-1/
+│   │   ├── 0.All Worksheets/
+│   │   ├── 1.Worksheet_1/
+│   │   ├── 2.Worksheet_2/
+│   │   ├── 3.Worksheet_3/
+│   │   ├── 4.Worksheet_4/
+│   │   ├── 5.Worksheet_5/
+│   │   ├── 6.Worksheet_6/
+│   │   ├── 7.Worksheet_7/
+│   │   └── LMS QUESTIONS/
+│   └── 2.Sem-2/
 │
 └── README.md
 ```
 
-*The structure shown above represents the organisation of the repository and may evolve as more subjects, worksheets, and languages are added.*
+## Subjects and Materials
 
-## 🎯 My Objectives
+### 1. Full-Stack Development
 
-1. Build strong programming fundamentals.
-2. Practise coding regularly instead of only studying theory.
-3. Maintain all my academic coding work in one place.
-4. Improve logical thinking and problem-solving skills.
-5. Explore multiple programming languages and technologies.
-6. Learn Git and GitHub through practical use.
-7. Document my growth as an AI engineering student.
+Semester-wise learning and practice materials for:
 
-## 📈 My Learning Philosophy
+-   **HTML**
+-   **CSS**
+-   **JavaScript**
+-   **Worksheets**, organized by topic
+-   **YouTube Classes** --- HTML
 
-I don't expect every program in this repository to be perfect.
+### 2. Python
 
-Some code may be basic, some may contain mistakes, and some may represent concepts I'm learning for the first time.
+Semester-wise Python practice materials, including:
 
-That's the point of this repository.
+-   All worksheets
+-   Individual worksheets 1--7
+-   LMS questions
 
-I want to keep a record of where I started, what I learned, what I struggled with, and how much I improve throughout my B.Tech journey.
+## Semester Organization
 
-## 🤝 Feedback & Suggestions
+The repository currently has folders for:
 
-I'm always open to constructive feedback, suggestions, and better approaches to solving programming problems.
+-   **Semester 1** --- available practice folders are organized under
+    each subject.
+-   **Semester 2** --- a separate folder is provided under each subject
+    for future or current materials.
 
-If you find something that could be improved, feel free to share your suggestions.
+## How to Use This Repository
 
----
+1.  Open the subject folder you want to study.
+2.  Select the relevant semester.
+3.  Open the topic or worksheet folder.
+4.  Use the files inside for practice and revision.
 
-## 👨‍💻 About Me
+## Note
 
-**Abhigyan Das**
-
-B.Tech Artificial Intelligence Student
-
-- GitHub: [@dasabhigyan](https://github.com/dasabhigyan)
-- Repository: [my-practice-B.tech](https://github.com/dasabhigyan/my-practice-B.tech)
-
----
-
-⭐ **This is not just a collection of code. It's a record of my entire B.Tech learning journey.**
-
-*Started in 2026 | Learning one concept and writing one program at a time.*
+This README describes the folder structure shown in the repository. Add
+or update the descriptions as more notes, code files, worksheets, and
+study resources are added.
