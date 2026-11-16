@@ -17,7 +17,7 @@ console.error(a + b);
 // console.log(userName);
 //----------------------------------------------------------
 //VAR
-// re-declaration is allowed
+// re-declaration is allowed (works in Every SCOPE)
 // re-assignment is allowed (changing the value is allowed)
 //----------------------------------------------------------
 
@@ -28,7 +28,7 @@ console.error(a + b);
 
 //----------------------------------------------------------
 //LET
-// re-declaration is NOT allowed
+// re-declaration is NOT allowed(Only works in same SCOPE)
 // re-assignment is allowed (changing the value is allowed)
 //----------------------------------------------------------
 
@@ -39,8 +39,8 @@ console.error(a + b);
 
 //----------------------------------------------------------
 //CONST
-// re-declaration is NOT allowed
-// re-assignment is NOT allowed
+// re-declaration is NOT allowed (Only works on the same scope and in the same Block of Code.)
+// re-assignment is NOT allowed (changing the value is NOT allowed)
 
 // NAMING CONSERVATION AND RULES
 // 1.Use meaningfull names. isAllowed, getCategories
