@@ -17,3 +17,14 @@ flagstone_n = (n + a - 1) // a
 
 # Multiply both dimensions to get the total number of flagstones needed
 print(flagstone_m * flagstone_n)
+
+
+
+
+
+# Alternative
+import math 
+n, m, a = map(int, input().split())
+flagstone_length = math.ceil(n/a)
+flagstone_width = math.ceil(m/a)
+print(flagstone_length*flagstone_width)

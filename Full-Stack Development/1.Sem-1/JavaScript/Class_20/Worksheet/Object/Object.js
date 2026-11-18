@@ -35,3 +35,4 @@ student2.city = "Jaipur";
 
 console.log(student);
 console.log(student2);
+// Did it create a secound object? No,It doesn't create a new object, it just created a secound name(referance)pointing to the same object in the memory
