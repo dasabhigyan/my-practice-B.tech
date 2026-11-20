@@ -11,6 +11,6 @@
 7. LMS Question related toPython Worksheet-7
 
 21.11.2026
-1. Logic 3 Maths
-2. All JavaScript Question form the Policade 
-3. All JavaScript Worksheets properly
+1. Logic 3 Maths []
+2. All JavaScript Question form the Policade  []
+3. All JavaScript Worksheets properly []
