@@ -60,7 +60,7 @@
 // console.log(laptop)
 // console.log(laptop["os"]) //square bracket allows the use of dynamic key
 
-// const val = prompt(`What do you want to know about my laptop?`);
+// const key = prompt(`What do you want to know about my laptop?`);
 // console.log(laptop[key]) //this give the value 
 // console.log(laptop.key) // this gives the value as undefined 
 

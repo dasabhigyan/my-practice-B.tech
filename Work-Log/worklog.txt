@@ -3,9 +3,14 @@
 
 20.11.2026  (0/8)
 1. JavaScript Worksheet-21 LMS Video []
-1. JavaScript Worksheet-21 and  []
-2. JavaScript Worksheet-20 LMS Video []
-3. Python Worksheet - 9  []
-4. Python Worksheet - 20 []
-5. Youtube: Day 1: Open Source Contributions | BootCamp -by Piyush Garg []
-6. LMS Question related toPython Worksheet-7
+2. JavaScript Worksheet-21 and  []
+3. JavaScript Worksheet-20 LMS Video []
+4. Python Worksheet - 9  []
+5. Python Worksheet - 20 []
+6. Youtube: Day 1: Open Source Contributions | BootCamp -by Piyush Garg []
+7. LMS Question related toPython Worksheet-7
+
+21.11.2026
+1. Logic 3 Maths
+2. All JavaScript Question form the Policade 
+3. All JavaScript Worksheets properly
