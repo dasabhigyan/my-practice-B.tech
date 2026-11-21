@@ -1,0 +1,31 @@
+Worksheet - number [Status ✅/❌]
+
+HTML (completed onces making digital notes)
+Worksheet - 01 [✅]
+Worksheet - 02 [✅]
+Worksheet - 03 [✅]
+Worksheet - 04 [✅]
+Worksheet - 05 [✅]
+Worksheet - 06 [✅]
+Worksheet - 07 [✅]
+Worksheet - 08 [❌]
+Worksheet - 09 [❌]
+Worksheet - 10 [❌]
+
+CSS
+Worksheet - 11 [❌]
+Worksheet - 12 [❌]
+Worksheet - 13 [❌]
+Worksheet - 14 [❌]
+Worksheet - 15 [❌]
+Worksheet - 16 [❌]
+Worksheet - 17 [❌]
+Worksheet - 18 [❌]
+
+JavaScript
+Worksheet - 19 - [✅]
+Worksheet - 20 - [✅]
+Worksheet - 21 - [❌]
+Worksheet - 22 - [❌]
+Worksheet - 23 - [❌]
+Worksheet - 24 - [❌]

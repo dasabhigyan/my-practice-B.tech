@@ -88,17 +88,46 @@
 
 
 //-----------------------------------------------------------------------------
-const Abhigyan = {
-    name: "Abhigyan", // this is a property
-    age: 18, // this is a property
-    isGraduated: false, // this is a property
-    information: function abcd() { // this is a Method
-        console.log("------------");
-    }
-};
-console.log("Das", Abhigyan); // printing a string and the object in the same line 
+// const Abhigyan = {
+//     name: "Abhigyan", // this is a property
+//     age: 18, // this is a property
+//     isGraduated: false, // this is a property
+//     information: function abcd() { // this is a Method
+//         console.log("------------");
+//     }
+// };
+// console.log("Das", Abhigyan); // printing a string and the object in the same line 
 
-Abhigyan.information();
+// Abhigyan.information();
 // Important: in arrow function the indicats the parent block 
     //  infoemation: () => {}
 // The function () the 
+// Important: when function is inside Object then we should use function() Key word
+
+
+
+
+
+
+
+
+
+
+//-----------------------------------------------
+const Abhigyan = {
+    name: "Abhigyan",
+    city: "Balasore",
+    state: "Odisha",
+    marks: {
+        FSD: 70,
+        Python: 60,
+        Maths: 50
+    }
+};
+
+const allKeys = Object.keys(Abhigyan)
+console.log(allKeys)
+const allValues = Object.values(Abhigyan)
+console.log(allValues)
+const allEntries = Object.entries(Abhigyan)
+console.log(allEntries)
